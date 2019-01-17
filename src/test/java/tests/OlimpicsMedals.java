@@ -155,6 +155,7 @@ public class OlimpicsMedals extends Reports {
                 }
             }
         }
+        // Github test
         return ret;
     }
 }
